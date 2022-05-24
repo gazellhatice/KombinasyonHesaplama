@@ -1,3 +1,5 @@
+//Java ile kombinasyon hesaplayan program yazınız.
+
 import java.util.Scanner;
 
 public class Main {
